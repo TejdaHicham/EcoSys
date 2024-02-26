@@ -18,7 +18,7 @@ This Docker ecosystem comprises Apache Atlas, Apache NiFi, Apache Kafka, and Apa
 
 2. Navigate to the project directory:
    ```bash
-   cd your-repo
+   cd EcoSys
 
 3. Start the Docker containers:
    ```bash
