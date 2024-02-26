@@ -14,7 +14,7 @@ This Docker ecosystem comprises Apache Atlas, Apache NiFi, Apache Kafka, and Apa
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-repo.git
+   git clone https://github.com/TejdaHicham/EcoSys
 
 2. Navigate to the project directory:
    ```bash
