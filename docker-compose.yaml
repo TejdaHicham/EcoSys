@@ -4,7 +4,7 @@ services:
     build: ./apache-atlas
     image: apache-atlas
     volumes:
-      - ./atlas/resources/1000-Hadoop:/opt/atlas/models/1000-Hadoop
+      - ./apache-atlas/resources/1000-Hadoop:/opt/atlas/models/1000-Hadoop
     ports:
       - "21000:21000"
     depends_on:
