@@ -27,9 +27,7 @@ This Docker ecosystem comprises Apache Atlas, Apache NiFi, Apache Kafka, and Apa
 ## Access the services:
 
 - Apache Atlas: http://localhost:21000
-- Apache NiFi: https://localhost:8080
-- Apache Kafka: http://localhost:9092
-- Apache Zookeeper: http://localhost:2181
+- Apache NiFi: https://localhost:8443
 
 ## Usage
 - Use Apache Atlas for data governance, metadata management, and lineage tracking.
