@@ -22,7 +22,8 @@ This Docker ecosystem comprises Apache Atlas, Apache NiFi, Apache Kafka, and Apa
 
 3. Start the Docker containers:
    ```bash
-   docker compose -f "docker-compose.yaml" up -d --build
+   docker-compose build
+   docker-compose up
    
 ## Access the services:
 
